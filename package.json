@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/strawhat19/NoteTaker/issues"
   },
-  "homepage": "https://github.com/strawhat19/NoteTaker#readme"
+  "homepage": "https://github.com/strawhat19/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
