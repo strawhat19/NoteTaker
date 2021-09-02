@@ -2,7 +2,7 @@
   "name": "notetaker",
   "version": "1.0.0",
   "description": "Note Taking App",
-  "main": "index.js",
+  "main": "server.js",
   "directories": {
     "lib": "lib"
   },
