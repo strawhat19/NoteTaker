@@ -8,7 +8,7 @@
 * [Questions](#questions)
 
 ## Installation
-Open the [Heroku Server](https://agile-note-taker.herokuapp.com/) where this application is hosted.
+Open the [Heroku App](https://ancient-garden-68698.herokuapp.com/).
 
 ## Usage
 You can add/view/remove custom notes you write to yourself using this app!
