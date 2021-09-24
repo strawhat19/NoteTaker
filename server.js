@@ -3,7 +3,7 @@ const fs = require(`fs`);
 const path = require(`path`);
 const db = require(`./db/db.json`);
 
-const apiRoutes = require(`./routes/apiRoutes`);
+const apiRoutes = require(`./routes/routesMain`);
 const noteRouter = require(`./routes/router`);
 
 const app = express();

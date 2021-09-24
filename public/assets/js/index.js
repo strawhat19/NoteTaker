@@ -93,6 +93,9 @@ const handleNoteDelete = (e) => {
     getAndRenderNotes();
     renderActiveNote();
   });
+
+  // // Added code since my notes werent deleting
+  // note.parentElement.remove();
 };
 
 // Sets the activeNote and displays it
