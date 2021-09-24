@@ -4,7 +4,7 @@
 ## **Table of Contents**
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#installation)
+* [Contributing](#contributing)
 * [Questions](#questions)
 
 ## Installation
